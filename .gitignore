@@ -1,0 +1,7 @@
+*.dll
+.idea
+log*/
+train*/
+test*/
+__pycache*
+cred.json
